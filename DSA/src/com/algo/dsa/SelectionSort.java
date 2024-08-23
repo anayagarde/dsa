@@ -31,7 +31,7 @@ public class SelectionSort {
                     minpos = j;
                 }
             }
-            if (minpos != i) {
+            if (minpos != i) { //swap (arr[i], arr[minpos])
                 int temp = arr[minpos];
                 arr[minpos] = arr[i];
                 arr[i] = temp;
