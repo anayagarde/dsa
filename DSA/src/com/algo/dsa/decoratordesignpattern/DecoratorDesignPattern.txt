@@ -1,0 +1,5 @@
+Decorator Design Pattern
+- Attaches additional responsibilities to an object Dynamically.
+- Decorators provide a flexible alternative to subclassing for extending functionality.
+- It depends on composition rather than inheritance
+
